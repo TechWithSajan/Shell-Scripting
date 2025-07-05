@@ -5,4 +5,11 @@ read a
 echo "Value of b"
 read b
 echo "Hello value of a is $a and value of b is $b"
-echo "Do you understand the script?"
+echo "Hello we are lerning git and github"
+echo "I am Adding this line in branch-1" 
+echo "We are adding data in branch-2" 
+echo "TechData"-"sajan" 
+
+
+
+
