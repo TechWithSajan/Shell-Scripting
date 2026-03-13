@@ -1,6 +1,10 @@
 echo "We are trying this practical from linux EC2"
 echo "We are from TDI and learning git/gihub"
-echo "I am from Pune"
+echo "I am from Pune-Maharshtra"
 echo "We are form TDI-devops_Sep-Batch"
-echo "we are adding data in branch-2"
-echo "I am adding this line in branch-1"
+echo "I'm from DevOps Batch-Sep"
+
+echo "hii evryone"
+echo "i am from pune"
+
+echo "this is B2"

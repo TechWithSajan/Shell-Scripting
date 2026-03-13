@@ -9,6 +9,8 @@ echo "Hello we are lerning git and github"
 echo "I am Adding this line in branch-1" 
 echo "We are adding data in branch-2" 
 
+echo "hii"
+echo "goog morning"
 
 
 
